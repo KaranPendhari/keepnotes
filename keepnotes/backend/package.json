@@ -1,0 +1,16 @@
+{
+  "name": "keepnotes-backend",
+  "version": "1.0.0",
+  "description": "keepnotes - data stored on cloud",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  }
+}
